@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1jXFTHGrjPt5p2BWfcdR5Hd554Oe5rSer/view
 ## 🚀 About Me
 I'm a **Backend Software Engineer** currently working at **Ghorerbazar**. I specialize in building **scalable and efficient backend systems** using modern technologies. Passionate about **software architecture, microservices, and distributed systems**, I love solving complex problems and optimizing performance.
 
-## 🛠 Tech Stack
+<b> 🛠 Tech Stack </b>
 
 🔹 **Languages:** C, C++, JavaScript, Python, TypeScript  
 🔹 **Backend:** Node.js, Nest.js, Express.js  
