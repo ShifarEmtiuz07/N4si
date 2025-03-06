@@ -3,11 +3,20 @@
 </div>
 
 <h1 align="center">Hi there, I'm A. B. M. Shifar Emtiuz! 👋</h1>
+<h3 align="center">Student of CSE at PSTU, Bangladesh🌟.</h3>
 
 <p align="center">
   <a href="https://github.com/ShifarEmtiuz07"><img src="https://img.shields.io/github/followers/ShifarEmtiuz07?label=Followers&style=social" alt="GitHub Followers"></a>
   <a href="https://linkedin.com/in/shifar-emtiuz"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1c5rzJ8NRaDfcTlDvyRlQbzDLTifpKuL-/view?usp=sharing" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume Download" />
+  </a>
+</p>
+
+https://drive.google.com/file/d/1c5rzJ8NRaDfcTlDvyRlQbzDLTifpKuL-/view?usp=sharing
+<p><img align="right" src="https://github.com/Rakibul73/Rakibul73/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ## 🚀 About Me
 I'm a **Backend Software Engineer** currently working at **Ghorerbazar**. I specialize in building **scalable and efficient backend systems** using modern technologies. Passionate about **software architecture, microservices, and distributed systems**, I love solving complex problems and optimizing performance.
