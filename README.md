@@ -84,8 +84,8 @@ I'm a **Backend Software Engineer** currently working at **Ghorerbazar**. I spec
 
 ## 🌎 Let's Connect
 <p align="center">
-  <a href="mailto:shifaremtiuz07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email"></a>
-  <a href="https://linkedin.com/in/shifar-emtiuz"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:emitiazshifar007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/a-b-m-shifar-emtiuz-aa621424a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/ShifarEmtiuz07"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" alt="GitHub"></a>
 </p>
 
